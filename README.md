@@ -17,7 +17,7 @@ Run the Docker image, attaching the directory your data in as a volume, providin
 ```console
 $ docker run --rm -v /host/path-to-data:/tmp/data databank-client python illinois_data_bank_datafile.py my-dataset-identifier my-dataset-token /tmp/data/myfile.csv
 ```
-This will upload your file to your draft dataset and then stop.
+This will upload your file to your draft dataset and then exit the container.
 
 # License
 
