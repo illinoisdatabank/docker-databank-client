@@ -7,8 +7,7 @@
 
 # What is databank-client?
 
-This image supports uploading a file to a draft dataset in Illinois Data Bank, a public access repository for publishing research data from the 
-University of Illinois at Urbana-Champaign. It contains a python script from [the databank client repository on GitHub](https://github.com/medusa-project/databank-client), along with an environment that supports it. For more information, see the [help page for the Illinois Data Bank API](https://databank.illinois.edu/help#api).
+This image supports uploading a file to a draft dataset in Illinois Data Bank, a public access repository for publishing research data from the University of Illinois at Urbana-Champaign. It contains a python script from [the databank client repository on GitHub](https://github.com/medusa-project/databank-client), along with an environment that supports it. For more information, see the [help page for the Illinois Data Bank API](https://databank.illinois.edu/help#api).
 
 # How to use this image
 
