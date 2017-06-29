@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
--    [`1.0`, '1' (*1.0/Dockerfile*)](https://github.com/illinoisdatabank/docker-databank-client/blob/master/Dockerfile)
+-    [`1.0`, `1` (*1.0/Dockerfile*)](https://github.com/illinoisdatabank/docker-databank-client/blob/1.0/Dockerfile)
 
 # Quick reference
 
