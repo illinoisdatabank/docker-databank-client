@@ -23,7 +23,7 @@ $ docker run --rm -v /host/path-to-data:/tmp/data databank-client python illinoi
 ```
 This will upload your file to your draft dataset and then stop.
 
-## Upload one or more files or modify processing from command line
+## Upload one or more files, or modify processing, from command line
 
 Run the Docker image, attaching the directory your data in as a volume. 
 
@@ -35,7 +35,7 @@ This will take you to a command line prompt, where you can paste and modify the 
 ```console
 $ python illinois_data_bank_datafile.py my-dataset-identifier my-dataset-token /tmp/data/myfile.csv
 ```
-This will upload your file to yur draft dataset then return you to the command line.
+This will upload your file to your draft dataset then return you to the command line.
 
 # License
 
