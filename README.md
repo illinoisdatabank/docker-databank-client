@@ -1,4 +1,6 @@
-# docker-databank-client
+# Supported tags and respective `Dockerfile` links
+
+-    [`1.0`, '1' (*1.0/Dockerfile*)](https://github.com/illinoisdatabank/docker-databank-client/blob/master/Dockerfile)
 
 # Quick reference
 
